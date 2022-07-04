@@ -11,8 +11,8 @@ AcinetobacterPlasmidTyper comprises a database of _Acinetobacter baumannii_ plas
 Using the AcinetobacterPlasmidTyper database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
 - To screen genome assemblies, users will need to have BLAST installed before executing the following command:
 
-```[pathway to directory containing blast installation]/bin/blastn -query acinetobacterplasmidtyper_040722.fasta -subject [pathway to directory containing genome assemblies] -outfmt 6 -out results.txt -perc_identity 95```
+```[pathway to directory containing blast installation]/bin/blastn -query acinetobacterplasmidtyper.fasta -subject [pathway to directory containing genome assemblies] -outfmt 6 -out results.txt -perc_identity 95```
 
 - To screen reads (use `--input_pe` for paired end and `--input_se` for single end; refer to SRST2 documentation for more information), users will need to have SRST2 installed before executing the following command:
 
-```srst2 --input_pe reads_1.fastq.gz reads_2.fastq.gz --gene_db acinetobacterplasmidtyper_040722.fasta --output results --log```
+```srst2 --input_pe reads_1.fastq.gz reads_2.fastq.gz --gene_db acinetobacterplasmidtyper.fasta --output results --log```
