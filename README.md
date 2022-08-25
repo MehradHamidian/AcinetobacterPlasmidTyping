@@ -1,5 +1,5 @@
-# AcinetobacterPlasmidTyper
-AcinetobacterPlasmidTyper comprises a database of _Acinetobacter baumannii_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 69 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T69. Note that multiple _rep_ sequence variants (i.e. allelic variants) can therefore be assigned to the same type/group.  
+# AcinetobacterPlasmidTyping
+AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 69 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T69. Note that multiple _rep_ sequence variants (i.e. allelic variants) can therefore be assigned to the same type/group.  
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
@@ -13,7 +13,7 @@ Accessions and isolate metadata for the complete plasmid sequences used to devel
 - RepPriCT family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595)
 
 # Usage
-Using the AcinetobacterPlasmidTyper database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
+Using the AcinetobacterPlasmidTyping database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
 - To screen genome assemblies, users will need to have BLAST installed before executing the following command:
 
 ```[pathway to directory containing blast installation]/bin/blastn -query acinetobacterplasmidtyper.fasta -subject [pathway to directory containing genome assemblies] -outfmt 6 -out results.txt -perc_identity 95```
