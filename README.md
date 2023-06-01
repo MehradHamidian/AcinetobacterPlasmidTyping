@@ -21,3 +21,6 @@ Using the AcinetobacterPlasmidTyping database as a reference, users are able to 
 - To screen reads (use `--input_pe` for paired end and `--input_se` for single end; refer to SRST2 documentation for more information), users will need to have SRST2 installed before executing the following command:
 
 ```srst2 --input_pe reads_1.fastq.gz reads_2.fastq.gz --gene_db acinetobacterplasmidtyper.fasta --output results --log```
+
+# Reference
+Lam MMC, Koong J, Holt KE, Hall RM, Hamidian M. Detection and Typing of Plasmids in Acinetobacter baumannii Using rep Genes Encoding Replication Initiation Proteins. Microbiol Spectr. 2023 Feb 14;11(1):e0247822. doi: 10.1128/spectrum.02478-22. PMID: 36472426; PMCID: PMC9927589.
