@@ -11,7 +11,10 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
     
 #R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*
 
-Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
+
+
+**Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
+**
 - Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
 - Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598) (December 2022)
 - RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595) (December 2022)
