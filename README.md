@@ -9,7 +9,7 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 
 †R1-T3 has been retired due to sequencing/assembly error.
     
-#R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*
+#R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*)
 
 
 
@@ -18,6 +18,7 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 - Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
 - Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598) (December 2022)
 - RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595) (December 2022)
+
 - Summary of strains carrying plasmids, their metadata, and AMR genes carried by their plasmids: https://doi.org/10.6084/m9.figshare.24076776 (September 2023)
 - Summary of complete plasmids, their Rep types, metadata and antibiotic resistance gene: https://doi.org/10.6084/m9.figshare.24076779 (September 2023) 
 
