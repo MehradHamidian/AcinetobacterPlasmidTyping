@@ -4,12 +4,12 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
 | Rep1 (R1) | 7  |R1-T1 to R1-T8†  |
-| Rep3 (R3) | 78  |R3-T1 to R3-T79#  |
+| Rep3 (R3) | 78  |R3-T1 to R3-T79⍿  |
 | RepPriCT_1 (RP) | 6  |RP-T1 to RP-T6  |
 
-†R1-T3 has been retired due to sequencing/assembly error.
+† R1-T3 has been retired due to sequencing/assembly error.
     
-#R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*)
+⍿ R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*)
 
 
 
