@@ -18,6 +18,9 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 - Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
 - Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598) (December 2022)
 - RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595) (December 2022)
+- Summary of strains carrying plasmids, their metadata, and AMR genes carried by their plasmids: https://doi.org/10.6084/m9.figshare.24076776 (September 2023)
+- Summary of complete plasmids, their Rep types, metadata and antibiotic resistance gene: https://doi.org/10.6084/m9.figshare.24076779 (September 2023) 
+
 
 # Usage
 Using the AcinetobacterPlasmidTyping database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
