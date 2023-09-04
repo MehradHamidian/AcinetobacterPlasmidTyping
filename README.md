@@ -7,9 +7,9 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 | Rep3 (R3) | 78  |R3-T1 to R3-T79#  |
 | RepPriCT_1 (RP) | 6  |RP-T1 to RP-T6  |
 
-† R1-T3 has been retired due to sequencing/assembly error.
+†R1-T3 has been retired due to sequencing/assembly error.
     
-# R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*)
+#R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*
 
 Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
 - Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
