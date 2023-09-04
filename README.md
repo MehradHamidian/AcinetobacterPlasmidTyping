@@ -8,9 +8,9 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ pla
 | RepPriCT_1 (RP) | 5  |RP-T1 to RP-T5  |
 
 Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
-- Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613)
-- Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598)
-- RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595)
+- Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
+- Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598) (December 2022)
+- RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595) (December 2022)
 
 # Usage
 Using the AcinetobacterPlasmidTyping database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
