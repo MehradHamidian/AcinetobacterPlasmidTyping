@@ -13,6 +13,39 @@ VERSION 3.0 (February 2025)
 - complete plasmids from all Acinetobacter species publically available (as of March 23, 2023) are included. The APT database now includes 257 rep sequence types
 - Metadata, antibiotic resistance genes and rep sequence types of 1848 complete Acinetobacter plasmids are available at https://figshare.com/account/projects/230963/articles/28003661?file=51090473
 
+Rep Type	Reference plasmid in Rep multi-FASTA database	Plasmid Accession	Species
+R1-T1	pMRSN58-2.7	CM003316.1	A. baumannii
+R1-T2	pAB49	L77992.1	A. baumannii
+R1-T4	p3AB5075	CP008709.1	A. baumannii
+R1-T5	pTS236	JN872565.1	A. baumannii
+R1-T6	pMRSN56-1	CP080453.1	A. baumannii
+R1-T7	pDETABR21-4	CP088899.1	A. baumannii
+R1-T8	pOCUAc18-9	AP024811.1	A. baumannii
+R1-T9	pM131-9	NC_025118.1	Acinetobacter sp.
+R1-T10	p6AB105	NZ_CP103343.1	A. baumannii
+R1-T11	pM131-10	NC_025169.1	Acinetobacter sp.
+R1-T12	p12	NZ_CP033121.1	A. wuhouensis
+R1-T13	pAhaem11616b	NZ_CP032007.1	A. haemolyticus
+R1-T14	p8_060092	NZ_CP035943.1	A. cumulans
+R1-T15	p4FDAARGOS_731	NZ_CP059689.1	A. radioresistens
+R1-T16	pC9_7	NZ_CP113449.1	A. baumannii
+R1-T17	pC9_7	NZ_CP113449.1	A. baumannii
+R1-T18	pAhaemAN3a	NZ_CP031987.1	A. haemolyticus
+R1-T19	pIC001D	NZ_CP022302.1	A. johnsonii
+R1-T20	p2	NZ_CP041367.1	A. tandoii
+R1-T21	p94-2-p5	NZ_CP041289.1	A. indicus
+R1-T22	pXMC5X702-2.3k	NZ_CP084311.1	A. pseudolwoffii
+R1-T23	p2021CK-01005-7	NZ_CP104658.1	A. variabilis
+R1-T24	pXM9F202-2-2k	NZ_CP060816.1	A. variabilis
+R1-T25	pYUSHP14-6	NZ_CP090073.1	Acinetobacter sp.
+R1-T26	pNY13623-3	NZ_CP106991.1	A. baumannii
+![image](https://github.com/user-attachments/assets/287e506a-a9ed-42a1-b6ba-ed789f2abbfa)
+
+
+
+
+
+
 
 VERSION 2.0 (September 2023)
 - R1-T3 has been retired due to sequencing/assembly error  
