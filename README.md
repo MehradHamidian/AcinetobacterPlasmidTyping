@@ -1,14 +1,19 @@
 # AcinetobacterPlasmidTyping
-AcinetobacterPlasmidTyping comprises a database of _Acinetobacter baumannii_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 78 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T79. Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
+AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 78 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T79. Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Rep1 (R1) | 7  |R1-T1 to R1-T8  |
-| Rep3 (R3) | 78  |R3-T1 to R3-T79  |
-| RepPriCT_1 (RP) | 6  |RP-T1 to RP-T6  |
+| Rep1 (R1) | 25  |R1-T1 to R1-T26  |
+| Rep3 (R3) | 200  |R3-T1 to R3-T201  |
+| RepPriCT_1 (RP) | 32  |RP-T1 to RP-T32  |
 
 
 # Database Version Updates
+VERSION 3.0 (February 2025)
+- complete plasmids from all Acinetobacter species publically available (as of March 23, 2023) are included. The APT database now includes 257 rep sequence types
+- Metadata, antibiotic resistance genes and rep sequence types of 1848 complete Acinetobacter plasmids are available at dx.doi.org/10.6084/m9.figshare.28003661![image](https://github.com/user-attachments/assets/ece38790-b38a-4b8e-af5a-d7ce0de62990)
+
+
 VERSION 2.0 (September 2023)
 - R1-T3 has been retired due to sequencing/assembly error  
 - R3-T49 has been retired (the sequence originally named R3-T49 has been re-named R3-T26*)
