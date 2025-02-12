@@ -11,7 +11,7 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid repli
 # Database Version Updates
 VERSION 3.0 (February 2025)
 - complete plasmids from all Acinetobacter species publically available (as of March 23, 2023) are included. The APT database now includes 257 rep sequence types
-- Metadata, antibiotic resistance genes and rep sequence types of 1848 complete Acinetobacter plasmids are available at dx.doi.org/10.6084/m9.figshare.28003661![image](https://github.com/user-attachments/assets/ece38790-b38a-4b8e-af5a-d7ce0de62990)
+- Metadata, antibiotic resistance genes and rep sequence types of 1848 complete Acinetobacter plasmids are available at [10.6084/m9.figshare.28003661](https://dx.doi.org/10.6084/m9.figshare.28003661)
 
 
 VERSION 2.0 (September 2023)
