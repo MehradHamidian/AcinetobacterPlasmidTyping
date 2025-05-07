@@ -4,7 +4,7 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid repli
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
 | Rep1 (R1) | 25  |R1-T1 to R1-T26  |
-| Rep3 (R3) | 201  |R3-T1 to R3-T201  |
+| Rep3 (R3) | 200  |R3-T1 to R3-T202  |
 | RepPriCT_1 (RP) | 32  |RP-T1 to RP-T32  |
 
 
