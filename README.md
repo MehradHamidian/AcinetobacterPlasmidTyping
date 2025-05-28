@@ -42,4 +42,4 @@ Using the AcinetobacterPlasmidTyping database as a reference, users are able to 
 # References
 1) Lam MMC, Koong J, Holt KE, Hall RM, Hamidian M. Detection and Typing of Plasmids in _Acinetobacter_ _baumannii_ Using _rep_ Genes Encoding Replication Initiation Proteins. Microbiol Spectr. 2023 Feb 14;11(1):e0247822. doi: 10.1128/spectrum.02478-22. PMID: 36472426; PMCID: PMC9927589. https://pubmed.ncbi.nlm.nih.gov/36472426/
 2) Lam MMC, Hamidian M. Examining the role of _Acinetobacter_ _baumannii_ plasmid types in disseminating antimicrobial resistance. npj Antimicrob Resist 2, 1 (2024). https://doi.org/10.1038/s44259-023-00019-y
-3) Liam A. Tobin, Margaret M. C. Lam, Mehrad Hamidian. Pan-Genus Analysis and Typing of Antimicrobial Resistance Plasmids in Acinetobacter. Preprint: https://www.researchsquare.com/article/rs-6165751/latest
+3) Liam A. Tobin, Margaret M. C. Lam, Mehrad Hamidian. Pan-Genus Analysis and Typing of Antimicrobial Resistance Plasmids in _Acinetobacter_. Preprint: https://www.researchsquare.com/article/rs-6165751/latest
