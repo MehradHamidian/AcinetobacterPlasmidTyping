@@ -18,6 +18,12 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 **ParA/_parA_ database**
 
+
+| Par Family  | Number of types |Designation |
+| ------------- | ------------- |------------- |
+| Par13 (Pfam13614) | 25  | Par13-T1 to Par13-T31  |
+| Par01 (Pfam01656) | 203  | Par01-T1 to Par01-T47  |
+
 **CIS database**
 
 # Database Version Updates
