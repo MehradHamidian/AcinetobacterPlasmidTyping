@@ -16,6 +16,7 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 
 
+
 **ParA/_parA_ database**
 
 
@@ -24,7 +25,12 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 | Par13 (Pfam13614) | 31  | Par13-T1 to Par13-T31  |
 | Par01 (Pfam01656) | 47  | Par01-T1 to Par01-T47  |
 
-**CIS database**
+
+**CIS database** (Conserved Intergenic Region)
+
+| CIS Type  | Number of types |Designation |
+| ------------- | ------------- |------------- |
+| CIS (Conserved Intergenic Region) | 4  | CIS-T1 to CIS-T4  |
 
 # Database Version Updates
 VERSION 4.0 (May 2026)
