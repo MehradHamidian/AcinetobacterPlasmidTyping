@@ -1,4 +1,4 @@
-# AcinetobacterPlasmidTyping
+<img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/09a12618-2244-459a-a5c7-d8e72c744f7c" /># AcinetobacterPlasmidTyping
 AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (_mob_) genes, _parA_ partitioning genes and conserved intergenic segments (CIS).
 
 **Rep/_rep_ database**
@@ -7,11 +7,13 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Rep1 (R1) | 25  |R1-T1 to R1-T26  |
-| Rep3 (R3) | 201  |R3-T1 to R3-T204  |
-| RepPriCT_1 (RP) | 32  |RP-T1 to RP-T32  |
+| Rep1 (R1;Pfam01446) | 25  |R1-T1 to R1-T26  |
+| Rep3 (R3; Pfam01051) | 201  |R3-T1 to R3-T204  |
+| RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
 
 **Mob/_mob_ database**
+
+
 
 **ParA/_parA_ database**
 
