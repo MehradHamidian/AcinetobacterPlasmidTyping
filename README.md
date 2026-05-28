@@ -14,7 +14,15 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 **Mob/_mob_ database**
 
-
+| Mob Family  | Number of types |Designation |
+| ------------- | ------------- |------------- |
+| MobF (Pfam08751) | 5  | MobF-T1 to MobF-T5  |
+| MobV (Pfam01076) | 7  | MobV-T1 to MobV-T7  |
+| MobP (Pfam03432) | 8  | MobP-T1 to MobP-T8  |
+| MobHEN (Pfam03432) | 20  | MobHEN-T1 to MobHEN-T20  |
+| MobC (Pfam05713) | 23  | MobC05-T1 to MobC05-T23  |
+| MobC (Pfam13814) | 1  | MobC13-T1 |
+| MobC (Pfam21983) | 6  | MobC21-T1 to MobC21-T6  |
 
 
 **ParA/_parA_ database**
@@ -22,9 +30,10 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 | Par Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Par13 (Pfam13614) | 31  | Par13-T1 to Par13-T31  |
+| Par13 (Pfam13614) | 33**  | Par13-T1 to Par13-T31  |
 | Par01 (Pfam01656) | 47  | Par01-T1 to Par01-T47  |
 
+** Including two minor variants: Par13-T3a/Par13-T3b and Par13-T9a/Par13-T9b
 
 **CIS database** (Conserved Intergenic Region)
 
