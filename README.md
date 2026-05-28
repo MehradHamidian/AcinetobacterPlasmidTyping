@@ -12,8 +12,8 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 | Rep3 (R3; Pfam01051) | 203**  |R3-T1 to R3-T204  |
 | RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
 
-* R1-T3 was retired
-** R3-T49 was retired
+*R1-T3 was retired
+**R3-T49 was retired
 
 **Mob/_mob_ database**
 
