@@ -8,7 +8,7 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
 | Rep1 (R1;Pfam01446) | 25  |R1-T1 to R1-T26  |
-| Rep3 (R3; Pfam01051) | 201  |R3-T1 to R3-T204  |
+| Rep3 (R3; Pfam01051) | 203  |R3-T1 to R3-T204  |
 | RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
 
 **Mob/_mob_ database**
