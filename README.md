@@ -1,14 +1,21 @@
 # AcinetobacterPlasmidTyping
-AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci, including __mob_, _parA_ and Conserved Intergenic Segments (CIS).
+AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (mob) genes, parA partitioning genes and conserved intergenic segments (CIS).
 
-Rep/_rep_ database
-Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 203 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T204 (1 R3-type sequence retired). Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
+**Rep/_rep_ database**
+
+Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 203 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T204 (one R3-type sequence retired). Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
 | Rep1 (R1) | 25  |R1-T1 to R1-T26  |
 | Rep3 (R3) | 201  |R3-T1 to R3-T204  |
 | RepPriCT_1 (RP) | 32  |RP-T1 to RP-T32  |
+
+**Mob/_mob_ database**
+
+**ParA/_parA_ database**
+
+**CIS database**
 
 # Database Version Updates
 VERSION 4.0 (May 2026)
