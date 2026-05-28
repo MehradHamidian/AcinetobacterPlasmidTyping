@@ -28,9 +28,9 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 **CIS database** (Conserved Intergenic Region)
 
-| CIS Type  | Number of types |Designation |
+| Conserved Intergenic Region Type  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| CIS (Conserved Intergenic Region) | 4  | CIS-T1 to CIS-T4  |
+| CIS  | 4  | CIS-T1 to CIS-T4  |
 
 # Database Version Updates
 VERSION 4.0 (May 2026)
