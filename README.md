@@ -1,5 +1,5 @@
 # AcinetobacterPlasmidTyping
-AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (mob) genes, parA partitioning genes and conserved intergenic segments (CIS).
+AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (_mob_) genes, parA partitioning genes and conserved intergenic segments (CIS).
 
 **Rep/_rep_ database**
 
