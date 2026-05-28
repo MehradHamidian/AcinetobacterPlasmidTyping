@@ -4,13 +4,16 @@ AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid repli
 
 **Rep/_rep_ database**
 
-Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 203 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T204 (one R3-type sequence retired). Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
+Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 203 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T204 (R3-T49 was retired). Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Rep1 (R1;Pfam01446) | 26  |R1-T1 to R1-T26  |
-| Rep3 (R3; Pfam01051) | 203  |R3-T1 to R3-T204  |
+| Rep1 (R1;Pfam01446) | 25*  |R1-T1 to R1-T26  |
+| Rep3 (R3; Pfam01051) | 203**  |R3-T1 to R3-T204  |
 | RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
+
+# R1-T3 was retired
+** R3-T49 was retired
 
 **Mob/_mob_ database**
 
