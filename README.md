@@ -8,7 +8,7 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 | Rep Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Rep1 (R1;Pfam01446) | 25  |R1-T1 to R1-T26  |
+| Rep1 (R1;Pfam01446) | 26  |R1-T1 to R1-T26  |
 | Rep3 (R3; Pfam01051) | 203  |R3-T1 to R3-T204  |
 | RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
 
@@ -21,8 +21,8 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 | Par Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Par13 (Pfam13614) | 25  | Par13-T1 to Par13-T31  |
-| Par01 (Pfam01656) | 203  | Par01-T1 to Par01-T47  |
+| Par13 (Pfam13614) | 31  | Par13-T1 to Par13-T31  |
+| Par01 (Pfam01656) | 47  | Par01-T1 to Par01-T47  |
 
 **CIS database**
 
