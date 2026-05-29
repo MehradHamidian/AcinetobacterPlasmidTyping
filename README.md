@@ -35,10 +35,10 @@ ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam016
 
 | Par Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
-| Par13 (Pfam13614) | 33**  | Par13-T1 to Par13-T31  |
+| Par13 (Pfam13614) | 33*  | Par13-T1 to Par13-T31  |
 | Par01 (Pfam01656) | 47  | Par01-T1 to Par01-T47  |
 
-** Including two minor variants: Par13-T3a/Par13-T3b and Par13-T9a/Par13-T9b
+* Including two minor variants: Par13-T3a/Par13-T3b and Par13-T9a/Par13-T9b
 
 # **CIS database** (Conserved Intergenic Region)
 
