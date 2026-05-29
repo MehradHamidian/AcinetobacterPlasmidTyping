@@ -2,7 +2,7 @@
 
 AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (_mob_) genes, _parA_ partitioning genes and conserved intergenic segments (CIS).
 
-**Rep/_rep_ database**
+# **Rep/_rep_ database**
 
 Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated R1, R3 and RP respectively in the typing scheme) and secondly by type based on homology with a threshold of 95% nucleotide identity. For example, the Rep3 family comprises 203 distinct plasmid _rep_ types (i.e. groups) designated R3-T1 through to R3-T204 (R3-T49 was retired). Note that multiple _rep_ sequence variants (i.e. allelic variants) can be assigned to the same type/group.  
 
@@ -16,7 +16,7 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 **R3-T49 was retired
 
-**Mob/_mob_ database**
+# **Mob/_mob_ database**
 Mob types are categorised firstly by family (MobF, MobV, MobP, MobHEN, or MobC) and secondly by type based on homology with a threshold of 95% nucleotide identity. MobC are split into 3 groups (MobC05-T1, MobC13 and MobC21) based on their Pfams (Pfam05713, Pfam13814 and Pfam21983, respectively).
 
 | Mob Family  | Number of types |Designation |
@@ -30,7 +30,7 @@ Mob types are categorised firstly by family (MobF, MobV, MobP, MobHEN, or MobC) 
 | MobC (Pfam21983) | 6  | MobC21-T1 to MobC21-T6  |
 
 
-**ParA/_parA_ database**
+# **ParA/_parA_ database**
 ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam01656 (named Par01)) and secondly by type based on homology with a threshold of 95% nucleotide identity within each group. 
 
 | Par Family  | Number of types |Designation |
@@ -40,7 +40,7 @@ ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam016
 
 ** Including two minor variants: Par13-T3a/Par13-T3b and Par13-T9a/Par13-T9b
 
-**CIS database** (Conserved Intergenic Region)
+# **CIS database** (Conserved Intergenic Region)
 
 | Conserved Intergenic Region Type  | Number of types |Designation |
 | ------------- | ------------- |------------- |
