@@ -63,7 +63,7 @@ VERSION 2.0 (September 2023)
 
 
 
-# Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
+# Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_, _mob_, and _parA_ typing scheme are available in FigShare via the following DOIs:
 
 - Summary of Mob, ParA and CIS types in all complete Acinetobacter plasmids as of May 2026: (https://doi.org/10.6084/m9.figshare.32358558) (May 2026)
 - Summary of strains carrying plasmids, their metadata, and AMR genes carried by their plasmids: https://doi.org/10.6084/m9.figshare.24076776 (September 2023)
