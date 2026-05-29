@@ -1,4 +1,4 @@
-**AcinetobacterPlasmidTyping**
+# **AcinetobacterPlasmidTyping**
 
 AcinetobacterPlasmidTyping comprises a database of _Acinetobacter_ plasmid replication initiation protein-encoding _rep_ sequences corresponding to an updated plasmid rep typing scheme for _Acinetobacter baumannii_. To enhance plasmid typing, the latest version of the APT scheme includes several new loci. New typing loci includes plasmid mobilisation (_mob_) genes, _parA_ partitioning genes and conserved intergenic segments (CIS).
 
@@ -13,9 +13,11 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 | RepPriCT_1 (RP; Pfam03090) | 32  |RP-T1 to RP-T32  |
 
 *R1-T3 was retired
+
 **R3-T49 was retired
 
 **Mob/_mob_ database**
+Mob types are categorised firstly by family (MobF, MobV, MobP, MobHEN, or MobC) and secondly by type based on homology with a threshold of 95% nucleotide identity. MobC are split into 3 groups (MobC05-T1, MobC13 and MobC21) based on their Pfams (Pfam05713, Pfam13814 and Pfam21983, respectively).
 
 | Mob Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
@@ -29,7 +31,7 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 
 
 **ParA/_parA_ database**
-
+ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam01656 (named Par01)) and secondly by type based on homology with a threshold of 95% nucleotide identity within each group. 
 
 | Par Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
@@ -45,9 +47,10 @@ Rep types are categorised firstly by family (Rep1, Rep3 or RepPriCT; designated 
 | CIS  | 4  | CIS-T1 to CIS-T4  |
 
 # Database Version Updates
+
 VERSION 4.0 (May 2026)
 
-- Additional loci were added to the scheme, including __mob_, _parA_ and Conserved Intergenic Segments (CIS)
+- Additional loci were added to the scheme, including _mob_, _parA_ and Conserved Intergenic Segments (CIS)
 
 # Database Version Updates
 VERSION 3.0 (February 2025)
