@@ -31,7 +31,7 @@ Mob types are categorised firstly by family (MobF, MobV, MobP, MobHEN, or MobC) 
 
 
 # **ParA/_parA_ database**
-ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam01656 (named Par01)) and secondly by type based on homology with a threshold of 95% nucleotide identity within each group. 
+ParA types are categorised firstly by family (Pfam13614 (named Par13) or Pfam01656 (named Par01) and secondly by type based on homology with a threshold of 95% nucleotide identity within each group. 
 
 | Par Family  | Number of types |Designation |
 | ------------- | ------------- |------------- |
