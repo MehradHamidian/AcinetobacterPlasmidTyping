@@ -65,17 +65,18 @@ VERSION 2.0 (September 2023)
 
 # Accessions and isolate metadata for the complete plasmid sequences used to develop the _rep_ typing scheme are available in FigShare via the following DOIs:
 
-- Mob, ParA and CIS plasmid typing details: (https://doi.org/10.6084/m9.figshare.32358558) (May 2026)
+- Summary of Mob, ParA and CIS types in all complete Acinetobacter plasmids as of May 2026: (https://doi.org/10.6084/m9.figshare.32358558) (May 2026)
+- Summary of strains carrying plasmids, their metadata, and AMR genes carried by their plasmids: https://doi.org/10.6084/m9.figshare.24076776 (September 2023)
+- Summary of complete plasmids, their Rep types, metadata and antibiotic resistance gene: https://doi.org/10.6084/m9.figshare.24076779 (September 2023) 
 - Rep1 family: [10.6084/m9.figshare.20372613](https://dx.doi.org/10.6084/m9.figshare.20372613) (December 2022)
 - Rep3 family: [10.6084/m9.figshare.20372598](https://dx.doi.org/10.6084/m9.figshare.20372598) (December 2022)
 - RepPriCT_1 family: [10.6084/m9.figshare.20372595](https://dx.doi.org/10.6084/m9.figshare.20372595) (December 2022)
 
-- Summary of strains carrying plasmids, their metadata, and AMR genes carried by their plasmids: https://doi.org/10.6084/m9.figshare.24076776 (September 2023)
-- Summary of complete plasmids, their Rep types, metadata and antibiotic resistance gene: https://doi.org/10.6084/m9.figshare.24076779 (September 2023) 
+
 
 
 # Usage
-Using the AcinetobacterPlasmidTyping database as a reference, users are able to screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
+Using the Acinetobacter Plasmid Typing database as a reference, users can screen their genome assemblies or reads for plasmid _rep_ types with BLAST and SRST2 (https://github.com/katholt/srst2) respectively. 
 - To screen genome assemblies, users will need to have BLAST installed before executing the following command:
 
 ```[pathway to directory containing blast installation]/bin/blastn -query acinetobacterplasmidtyper.fasta -subject [pathway to directory containing genome assemblies] -outfmt 6 -out results.txt -perc_identity 95```
